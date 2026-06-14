@@ -394,7 +394,7 @@ void displayTaskMenu() {
     } while(choice != 5);
 }
 
-// ==================== GPA CALCULATOR FUNCTIONS ====================
+// GPA CALCULATOR FUNCTIONS 
 
 void addCourse() {
     cout << "\n--- ADD NEW COURSE ---" << endl;
